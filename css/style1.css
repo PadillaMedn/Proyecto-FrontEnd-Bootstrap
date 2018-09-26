@@ -1,0 +1,329 @@
+
+
+div{
+   /* border: 1px solid black;*/
+}
+.life{
+    /* Style for "lifestyle" */
+width: 71px;
+height: 11px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+margin-left: 93%;
+
+}
+.life1{
+    /* Style for "lifestyle" */
+width: 65px;
+height: 11px;
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+text-transform: uppercase;
+
+
+}
+.photo{
+    /* Style for "photodiary" */
+width: 71px;
+height: 11px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+margin-left: 55%;
+}
+.music{
+    /* Style for "music" */
+width: 43px;
+height: 11px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+margin-left: 55%;
+}
+.travel{
+    /* Style for "travel" */
+width: 52px;
+height: 11px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+margin-left: 55%;
+}
+#minimo{
+    width: 119px;
+    height: 23px;
+    color: #000000;
+    font-family: Inconsolata;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 24px;
+    text-transform: uppercase;
+    /* Text style for "minim, ø" */
+    letter-spacing: 6px;
+    margin: 5%;
+    margin-left: 16%;
+    }
+.image{
+    /* Style for "image" */
+width: 1061px;
+height: 509px;
+margin-left: 50%;
+margin-right: 20%;
+}
+.photo1{
+    /* Style for "photodiary" */
+width: 85px;
+height: 11px;
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+text-transform: uppercase;
+margin-left: 25%;
+}
+.perfect{
+    /* Style for "The perfec" */
+width: 397px;
+height: 30px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 30px;
+font-weight: 400;
+margin-left: 25%;
+}
+
+.p1{
+    /* Style for "Lorem ipsu" */
+width: 893px;
+height: 183px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 25%;
+}
+#liv{
+    /* Style for "Leave a co" */
+/*width: 123px;
+height: 11px;
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 250;
+text-transform: uppercase;
+margin-left: 20%;*/
+color:#b4ad9e;
+font-size: 90%;
+font-family: Ubuntu;
+margin-left: 25%;
+text-transform: uppercase;
+
+
+}
+.row{
+    margin-left: 23%;
+    margin-right: -22%;
+  
+}
+.p2{
+    /* Style for "Lorem ipsu" */
+width: 414px;
+height: 63px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+
+}
+.pp{
+    /* Style for "More than" */
+width: 407px;
+height: 30px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 30px;
+font-weight: 400;
+}
+.bg{
+    /* Style for "background" */
+width: 1199px;
+height: 287px;
+background-color: #f0f0f0;
+margin: 20px auto;
+margin-left: 17%;
+
+}
+.sig{
+    /* Style for "Sign up fo" */
+width: 374px;
+height: 30px;
+color: #333333;
+font-family: "Playfair Display";
+font-size: 30px;
+font-weight: 400;
+/* Text style for "Sign up fo" */
+letter-spacing: 0.75px;
+text-align: center;
+margin-left: 35%;
+margin: 20px auto;
+padding: 100px 0 0 0;
+}
+.mail{
+    /* Style for "Enter a va" */
+width: 168px;
+height: 12px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 36%;
+padding: 60px 0 0 0;
+}
+.line{
+ /* Style for "line" 
+width: 399px;
+height: 2px;
+border: 1px solid #000000;
+margin-left: 70;*/
+/* Style for "line" */
+width: 399px;
+height: 1px;
+background-color: #000000;
+margin-left: 35%;
+margin-top: 3px
+
+}
+.icon{
+/* Style for "send icon" */
+width: 40px;
+height: 1px;
+margin-left: 65%;
+padding: 1px 0 0 0;
+margin-top: -33px;
+
+}
+.life1{
+    /* Style for "lifestyle" */
+width: 63px;
+height: 11px;
+color: #b4ad9e;
+font-family: Ubuntu;
+font-size: 14px;
+font-weight: 300;
+text-transform: uppercase;
+}
+.box{
+    /* Style for "box" */
+width: 164px;
+height: 60px;
+border: 1px solid #626262;
+margin-left: 45%;
+}
+.more{
+    /* Style for "Load more" */
+width: 96px;
+height: 17px;
+color: #626262;
+font-family: "Playfair Display";
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 20%;
+margin-top: 15px
+}
+.vec{
+    /* Style for "background" */
+width: 1200px;
+height: 97px;
+background-color: #f0f0f0;
+margin-left: 12%;
+margin-right: 10%;
+}
+.temrs{
+    /* Style for "Terms and" */
+/*width: 136px;
+height: 12px;
+color: #000000;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;*/
+
+height: 12px;
+columns: #000000;
+font-size: 18px;
+font-family: "Playfair Display";
+margin-left: 12%;
+margin-top: 27px;
+font-weight: 400;
+line-height: 24px;
+
+}
+.fol{
+    /* Style for "Follow" */
+width: 42px;
+height: 12px;
+color: #000000;
+font-family: "Playfair Display";
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 81%;
+margin-top: -23px
+}
+.fb{
+    /* Style for "facebook" */
+width: 35px;
+height: 35px;
+margin-left: 87%;
+margin-top: -17px
+}
+.tt{
+    
+    width: 35px;
+    height: 35px;
+    margin-left: 90%;
+    margin-top: -35px;
+}
+.insta{
+    width: 35px;
+    height: 35px;
+    margin-left: 93%;
+margin-top: -35px;
+}
+.inta1{
+    width: 35px;
+    height: 35px;
+    margin-left: 93%;
+    margin-top: -35px;
+}
+#text{
+    
+    font-family: "Playfair Display";
+   
+     margin-left: 35%;
+     font-size: 14px;
+     color: black;
+     border: none;
+    width: 280px;
+    margin-top: 40px;
+     background-color: #f0f0f0;
+ }
